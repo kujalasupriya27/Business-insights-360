@@ -1,28 +1,26 @@
-Business Insights 360
-Link to Live Interactive DashBoard: Power BI DashBoard
-1. Project Overview
+ BUSINESS INSIGHTS 360                                                                                                                                                                                     
+ Link to Live Interactive DashBoard: Power BI DashBoard
+1. PROJECT OVERVIEW
 AtliQ Hardware is rapidly expanding and has decided to use PowerBi for the first time to execute data analytics.The Business Insights 360 dashboard should be built using Microsoft Power BI. This multi-functional dashboard should be tailored in such a way that it should provide AtliQ Hardware with vital insights into their many departments such as Finance, Sales, Marketing, and Supply Chain on a worldwide scale.
-
-About AtliQ Hardware
+ ABOUT ATLIQ HARDWARE
 AtliQ Hardware is a rapidly growing company that operates globally. They sell computer and computer accessories through three channels:
-
 Retailers
 Direct
 Distributors
 Recently, the company faced an unforeseen loss due to the opening of a store in Latin America. To make data-driven decisions and survive in the industry, AtliQ Hardware decided to build an analytics team.
 
-2. Project Planning
+2. PROJECT PLANNING
 The project planning session is where you get clarity on the project's objectives and why it's being undertaken. It's the time to ask questions and set the direction for the project and create a Project Charter
 
-Project Charter
+PROJECT CHARTER
 Using a project tool lie MURAL, which helps in creating a project charter. It outlines keep project features such
-
 Goals
 Timeline
 Team members
 Objectives
 Risks
-3. Import & Explore Data
+                                                                                                                                                                                                          
+3. IMPORT AND EXPLORE DATA
 A. Importing Data into SQL
 Importing the AtliQ's data into the MySQL Workbench. The data includes both fact and dimension tables.
 
@@ -63,7 +61,7 @@ After exploring the data, we now connect and load the AtliQ's data from MySQL da
 
 Note: Excel/ CSV Files are also the other data source, where the Targets and Market Share data related informations are imported to Power BI.
 
-4. Data Modelling
+4.  DATA MODELLING
 Data modeling is the foundation of the report. All visuals are built upon the data model. Poor data modeling can affect the overall performance of the report.
 
 After importing data into the Power BI, the following procedures are to be followed:
@@ -71,14 +69,12 @@ After importing data into the Power BI, the following procedures are to be follo
 Cleaning, formatting and transforming the data using power query
 Establishing relationships among the tables, employing either Star Schema or the Snow Flake methodology.
 Subsequently, conducting data validation against the benchmarks set by the stakeholders
-5. Dashboard Designing
+                                                                                                                                                                                                          
+5. DASHBOARD DESIGINING
 Based on mockups received as requirements, the team will start designing visuals and creating measures as needed.
-
 Home View
 In the Home view, all the view buttons will be accessible. Users will land on specific view pages by clicking the button and you can navigate to the certain view.
-
 The different views are:
-
 Views	Description
 Info	It gives an overview of the fundamental data generation process and used to notify updates
 Finance	It enables users to analyze P&L statements ,understanding the net sales and expolring other fiscal metrics
@@ -87,11 +83,9 @@ Marketing	It shows the customer engagement, impact of the product and market res
 Supply Chain	It provides insights into inventory levels, order fulfillments and logistics which facilitates streamlined operations
 Exective	It presents some of the important KPI's and tracks market shares trends
 Support	It porvides support measures for the customers who are facing issues
-6. Project Outcomes
+                                                                                                                                                                                                          6.  PROJECT OUTCOMES
 This dashboard helps with various business questions in different situations. It enables data-driven decisions to make AtliQ more profitable. It uses data to answer many 'why' questions in different scenarios.
-
 The Goals and successes :
-
 Views	Goals	Successes
 Finance	Improve budgeting, cost control	Better budget predictions, benchmarking
 Sales	Raise sales, customer relations	Sales reports, tracking KPIs
