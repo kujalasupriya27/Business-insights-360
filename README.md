@@ -90,7 +90,9 @@ Marketing	It shows the customer engagement, impact of the product and market res
 Supply Chain	It provides insights into inventory levels, order fulfillments and logistics which facilitates streamlined operations
 Exective	It presents some of the important KPI's and tracks market shares trends
 Support	It porvides support measures for the customers who are facing issues.
-                                                                                                                                                                                                          6.  PROJECT OUTCOMES:
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+6.  PROJECT OUTCOMES:
                                                                                                                                                                                                         This dashboard helps with various business questions in different situations. It enables data-driven decisions to make AtliQ more profitable. It uses data to answer many 'why' questions in different scenarios.
 The Goals and successes :
 Views	Goals	Successes
